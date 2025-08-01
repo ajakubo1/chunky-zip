@@ -1,0 +1,5 @@
+pytest>=7.0
+black>=25
+isort>=6
+mypy>=1.17
+psutil==7.0.0
